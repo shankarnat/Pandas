@@ -1,2 +1,2 @@
 # Pandas
-I have a created a Jupyter notebook with all Pandas commands - for my personal learning. 
+This is repo has Jupyter notebook that explores the power of Pandas
